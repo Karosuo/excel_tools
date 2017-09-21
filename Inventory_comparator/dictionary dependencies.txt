@@ -1,0 +1,6 @@
+To be able to use dictionaries
+Tools > References
+
+select "Microsoft Scripting Runtime"
+
+if needed, browse for scrrun.dll
